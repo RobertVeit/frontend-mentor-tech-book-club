@@ -219,6 +219,10 @@ ol {
   text-align: center;
 }
 
+.txt-align-start {
+  text-align: start;
+}
+
 .flex-grow {
   flex: 1;
 }
@@ -624,5 +628,9 @@ footer > .container:first-child {
 
   #tech-logos {
     display: none;
+  }
+
+  .flex-mobile-col {
+    flex-direction: column;
   }
 }
