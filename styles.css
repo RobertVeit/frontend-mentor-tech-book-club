@@ -506,7 +506,7 @@ ol li:not(:last-child)::after {
   left: -1.25rem;
 }
 
-#not-average {
+#not-average-image {
   grid-row: 1 / 2;
   grid-column: 3 / 4;
 }
@@ -583,7 +583,7 @@ footer > .container:first-child {
     align-items: center;
   }
 
-  #not-average {
+  #not-average-image {
     grid-row: 2 / 3;
     grid-column: 1 / 2;
   }
